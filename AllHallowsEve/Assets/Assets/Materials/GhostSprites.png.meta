@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 7f5cf918302bc4cbfb9e7ac91960ee67
+timeCreated: 1457200975
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GhostSprites_0
+    21300002: GhostSprites_1
+    21300004: GhostSprites_2
+    21300006: GhostSprites_3
+    21300008: GhostSprites_4
+    21300010: GhostSprites_5
+    21300012: GhostSprites_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GhostSprites_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 977
+        width: 454
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GhostSprites_1
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 986
+        width: 379
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GhostSprites_2
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 998
+        width: 435
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GhostSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1018
+        width: 494
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GhostSprites_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 315
+        width: 441
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GhostSprites_5
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 257
+        width: 512
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GhostSprites_6
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 256
+        width: 484
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

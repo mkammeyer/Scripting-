@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: ff4e11c57fffb41d6ad9e9b5796e83c8
+timeCreated: 1461026464
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pump1
+    21300002: Pump2
+    21300004: Pump3
+    21300006: Pump4
+    21300008: Pump5
+    21300010: Pump6
+    21300012: Pump7
+    21300014: Pump8
+    21300016: Pump9
+    21300018: Pump10
+    21300020: Pump11
+    21300022: Pump12
+    21300024: Pump13
+    21300026: Pump14
+    21300028: Pump15
+    21300030: Pump16
+    21300032: Pump17
+    21300034: Pump18
+    21300036: Pump19
+    21300038: Pump20
+    21300040: Pump21
+    21300042: Pump22
+    21300044: Pump23
+    21300046: Pump24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pump1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 365
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 367
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 365
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 365
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 248
+        width: 105
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 248
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 249
+        width: 119
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 249
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump9
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 247
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump10
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 248
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 127
+        width: 105
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 11
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 11
+        width: 94
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 18
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 18
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 18
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump19
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 18
+        width: 98
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump20
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 18
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump21
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 18
+        width: 89
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump22
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 18
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump23
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 18
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump24
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 18
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
